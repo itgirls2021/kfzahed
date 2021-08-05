@@ -2,10 +2,10 @@ body {
         color: darkblue;
         background-color:rgb(238, 217, 255);
 }
-h1 { color: darkblue}
+h1 { color: mediumvioletred }
 h2 {color: rgb(112, 0, 134) (86, 21, 172); font-family: 'Indie Flower', cursive;}
-a {color: darkblue;
-nav a {background-color: lightblue}
+a {color: mediumvioletred ;}
+nav a {background-color: lightblue ; }
 nav{
         padding: 10px;
         margin-bottom: 30px;
@@ -13,7 +13,7 @@ nav{
 
 }
 nav a:hover {background-color: slategray;}
-div{
+div {
         border: 1px solid white;
         margin: 30px;
         padding: 50px;
