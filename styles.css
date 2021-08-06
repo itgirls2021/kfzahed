@@ -1,6 +1,6 @@
 body {
         color: darkblue;
-        background-color:rgb(238, 217, 255);
+        background-image: url('aesthetic.jpg');
 }
 h1 { color: mediumvioletred }
 h2 {color: rgb(112, 0, 134) (86, 21, 172); font-family: 'Indie Flower', cursive;}
